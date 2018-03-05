@@ -1,0 +1,26 @@
+INTRODUCTION & OBJECTIVE
+
+    Providing the facility to the users (Consumers) that can make online bookings for gas cylinder to concerned distributor or agency
+
+PROBLEMS EXISTING SYSTEM
+
+    Through this existing  consumer unable to make online gas booking. For gas booking he has to make a cal to distributor and book the gas on. Data has located in single system. 
+Making online request is not possible in existing system. Online requests are like gas booking request and connection transfer request. For maintain the large data not possible with the existing system. More physical interaction needed.
+
+GasAgencySystem
+
+Changes have to be made before executing the project
+
+1. Copy the given project folder in your system.
+2. Right click on the folder, select the properties and click on web sharing tab
+3. Click on share this folder in the following screen
+
+GasAgencySystem4. Select Write, Script source access and Directory browsing GasAgencySystem1
+
+5. Click on ok and then Apply
+6. Open web.config file from project folder and change ConnectionString parameters like
+•    Database/Initial catalog
+•    U id/User id
+•    Pwd/Password
+•    Data source
+8. Then save the web.config file
